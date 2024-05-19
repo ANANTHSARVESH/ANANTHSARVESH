@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ANANTHSARVESH
-- 👀 I’m interested in Docker, Kubernetes, AWS
-- 🌱 I’m currently learning Kubernetes
+- 👀 I’m interested in DSA, Java, SQL
+- 🌱 I’m currently learning DSA, Springboot
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
