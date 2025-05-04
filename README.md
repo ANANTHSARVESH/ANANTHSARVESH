@@ -1,10 +1,17 @@
-- 👋 Hi, I’m @ANANTHSARVESH
-- 👀 I’m interested in DSA, Java, SQL
-- 🌱 I’m currently learning DSA, Springboot, REST API.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hi, I'm Ananthsarvesh!
+🔧 Java Developer | Spring Boot Enthusiast
+🎯 Passionate about building scalable, secure, and efficient backend solutions
+🚀 Always exploring the latest in tech to solve real-world problems
 
-<!---
-ANANTHSARVESH/ANANTHSARVESH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to my GitHub profile! I'm a dedicated Java backend developer with a strong focus on Spring Boot, JWT Authentication, and MySQL. I’m currently building advanced e-commerce applications and constantly honing my skills in microservices architecture, cloud solutions, and API development.
+
+💼 Current Work:
+Building an e-commerce platform with role-based access control, product and category management, and seamless user authentication using JWT.
+
+🔧 Technologies I Love:
+Java 17
+Spring Boot
+Spring Security
+MySQL
+OAuth 2.0
+JWT (JSON Web Tokens)
